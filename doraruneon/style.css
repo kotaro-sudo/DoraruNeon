@@ -2,3 +2,7 @@
 body{
     background-color:rgb(248, 153, 248);
 }
+header {
+    background-image: url("img/1.jpg");
+    background-size: contain;
+}
