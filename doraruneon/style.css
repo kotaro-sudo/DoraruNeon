@@ -2,11 +2,14 @@
 body{
     background-color:rgb(248, 153, 248);
 }
-.2nd { 
-    color: red;
-    text-decoration:none;
-}
+
 header {
     background-image: url("img/1.png");
     background-size: contain;
+}
+
+a.nd{
+    text-decoration:none;
+    color:black;
+
 }
