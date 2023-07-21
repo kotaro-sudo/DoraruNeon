@@ -4,7 +4,7 @@ body{
 }
 a.2nd { 
     color: black;
-    underline:none;
+    text-decoration:none;
 }
 header {
     background-image: url("img/1.png");
