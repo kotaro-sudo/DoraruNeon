@@ -2,7 +2,10 @@
 body{
     background-color:rgb(248, 153, 248);
 }
-
+a.2nd { 
+    color: black;
+    underline:none;
+}
 header {
     background-image: url("img/1.png");
     background-size: contain;
